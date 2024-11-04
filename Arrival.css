@@ -1,0 +1,51 @@
+main{
+    margin: 150px 0;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fd;
+}
+
+.show1{
+    margin-left: 100px;
+    padding: 50px;
+    margin: 0 30px;
+    width: 300px;
+    
+}
+
+.show1-img{
+    width: 300px;
+}
+
+.show1-text{
+    line-height: 1.9;
+}
+
+.show-2{
+   
+    background-color: #f8f9fd;
+    padding: 50px;
+    align-items: center;
+}
+
+.show-2-text{
+    line-height: 1.9;
+    padding: 0 35px;
+}
+
+.show-3{
+    padding: 50px;
+    margin: 0 30px;
+}
+
+.show-3 text{
+    line-height: 1.9;
+}
+
+
+.flex{
+    display: flex;
+}
+
+
+
